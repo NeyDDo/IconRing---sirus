@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: Icon Ring
+## Title: IconRing---sirus-main
 ## Notes: Перетаскиваемая кнопка с кольцом иконок
 ## Author: Chirikan228 + NeyDDo
 ## Version: 1.1
