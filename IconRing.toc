@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Icon Ring
+## Notes: Перетаскиваемая кнопка с кольцом иконок
+## Author: YourName
+## Version: 1.0
+
+IconRing.lua
