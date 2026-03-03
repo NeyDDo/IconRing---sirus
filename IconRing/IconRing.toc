@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: IconRing---sirus-main
+## Notes: Перетаскиваемая кнопка с кольцом иконок
+## Author: Chirikan228 + NeyDDo
+## Version: 1.1
+
+IconRing.lua
